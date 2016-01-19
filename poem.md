@@ -11,12 +11,12 @@ Their minted shadows with deft finger-tips?
 Or who above the shadow's shadow stoops,
 And dips his pen and writes, and writes and dips?
 ```
-
+```
 >How can he? Yet some such have been and are,
 Prophets and seers in deed, if not in word,
 And poets of a faery land afar,
 By incommunicable music stirred;
 Feasting the soul apart with what it craves,
 Their occupation's masters, not its slaves.
-
+```
 http://www.public-domain-poetry.com/w-m-mackeracher/in-warehouse-and-office-36783
