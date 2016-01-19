@@ -1,6 +1,8 @@
-
-    How can the man whose uneventful days,
-     Each like the other, are obscurely spent
+#In Warehouse And Office.
+    _By_ W. M. MacKeracher
+    
+    *How* can the man whose uneventful days,
+     _Each_ like the other, are obscurely spent
     Amid the mill's dead products, keep his gaze
      Upon a lofty goal serenely bent?
     Or he who sedulously tells and groups
@@ -14,3 +16,5 @@
      By incommunicable music stirred;
     Feasting the soul apart with what it craves,
     Their occupation's masters, not its slaves.
+
+http://www.public-domain-poetry.com/w-m-mackeracher/in-warehouse-and-office-36783
