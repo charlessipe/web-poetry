@@ -1,6 +1,7 @@
 #In Warehouse And Office.
 ##By W. M. MacKeracher
-    
+
+```    
 *How* can the man whose uneventful days,
 _Each_ like the other, are obscurely spent
 Amid the mill's dead products, keep his gaze
@@ -9,6 +10,7 @@ Or he who sedulously tells and groups
 Their minted shadows with deft finger-tips?
 Or who above the shadow's shadow stoops,
 And dips his pen and writes, and writes and dips?
+```
 
 >How can he? Yet some such have been and are,
 Prophets and seers in deed, if not in word,
