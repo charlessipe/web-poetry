@@ -1,5 +1,5 @@
 #In Warehouse And Office.
-    _By_ W. M. MacKeracher
+    ##By W. M. MacKeracher
     
     *How* can the man whose uneventful days,
      _Each_ like the other, are obscurely spent
@@ -10,7 +10,7 @@
     Or who above the shadow's shadow stoops,
      And dips his pen and writes, and writes and dips?
 
-    How can he? Yet some such have been and are,
+    >How can he? Yet some such have been and are,
      Prophets and seers in deed, if not in word,
     And poets of a faery land afar,
      By incommunicable music stirred;
